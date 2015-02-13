@@ -1,0 +1,16 @@
+{
+    "name": "mrferos/selfie",
+    "description": "A modern method of cloning in PHP",
+    "authors": [
+        {
+            "name": "Andres Galindo",
+            "email": "me@andresgalindo.us"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "files": [
+            "src/selfie.php"
+        ]
+    }
+}
